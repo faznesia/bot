@@ -1,8 +1,8 @@
      const chalk = require("chalk")
      const fs = require("fs")
 
-     global.owner = ['62xx']
-     global.namabot = 'AUTO AI'
+     global.owner = ['6285779825392']
+     global.namabot = 'FAZ AI'
 
      let file = require.resolve(__filename)
      fs.watchFile(file, () => {
