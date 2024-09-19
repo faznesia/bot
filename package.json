@@ -1,14 +1,14 @@
 {
   "name": "Ore Digital",
   "version": "1.0",
-  "description": "Auto Ai & Downloader By Ore Digital",
+  "description": "Auto Ai & Downloader By faz",
   "main": "index.js",
   "license": "ISC",
   "type": "nodemon",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Ore Digital",
+  "author": "faz Digital",
   "dependencies": {
     "@xyzendev/baileys": "^6.7.7",
     "awesome-phonenumber": "^2.64.0",
